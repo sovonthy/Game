@@ -1,0 +1,19 @@
+.container {
+    margin: 0 auto;
+    width: 600px;
+}
+button {
+    width: 100px;
+    padding: 12px;
+    border: none;
+    cursor: pointer;
+    background: teal;
+    color: #fff;
+}
+#result {
+    padding: 40px;
+    margin-top: 40px;
+    text-align: center;
+
+}
+ 
